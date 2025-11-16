@@ -1,0 +1,8 @@
+.terraform.lock.hcl
+my-function-demo.PublishSettings
+terraform.tfstate.backup
+terraform.tfstate
+terraform.exe
+__pycache__
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.53.0/windows_amd64/terraform-provider-azurerm_v4.53.0_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/random/3.7.2/windows_amd64/terraform-provider-random_v3.7.2_x5.exe
