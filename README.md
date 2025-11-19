@@ -2,6 +2,14 @@
 
 Este documento descreve o processo que realizei para criação, teste e deploy de uma Azure Function usando Terraform e GitHub Actions.
 
+## 👥 **Grupo**
+- Samara Cardoso  
+- João Paulo  
+- Bruno Oliveira  
+- Victor Miguel  
+
+---
+
 ## Passo 0: Configuração do Secret no GitHub
 
 Antes de iniciar o deploy, configurei o secret necessário no GitHub Actions para autenticação com a Azure.
